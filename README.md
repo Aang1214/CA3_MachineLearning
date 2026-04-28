@@ -1,2 +1,4 @@
 # CA3_MachineLearning
-This repository contains CA3 for Machine Learning course in Data Analytics master degree. It contains code, research paper, presentation, dataset and coversheet.
+This repository contains CA3 for the Machine Learning course in the Data Analytics master's degree. It contains code, a research paper, a presentation, and a coversheet.
+
+Link to dataset: https://www.kaggle.com/datasets/washingtongold/exdark-dataset
